@@ -9,10 +9,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/sonug178/dsa-series/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/sonug178/dsa-series/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0283-move-zeroes](https://github.com/sonug178/dsa-series/tree/master/0283-move-zeroes) |
+| [0349-intersection-of-two-arrays](https://github.com/sonug178/dsa-series/tree/master/0349-intersection-of-two-arrays) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/sonug178/dsa-series/tree/master/0001-two-sum) |
+| [0349-intersection-of-two-arrays](https://github.com/sonug178/dsa-series/tree/master/0349-intersection-of-two-arrays) |
 ## Math
 |  |
 | ------- |
@@ -22,4 +24,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/sonug178/dsa-series/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0283-move-zeroes](https://github.com/sonug178/dsa-series/tree/master/0283-move-zeroes) |
+| [0349-intersection-of-two-arrays](https://github.com/sonug178/dsa-series/tree/master/0349-intersection-of-two-arrays) |
+## Binary Search
+|  |
+| ------- |
+| [0349-intersection-of-two-arrays](https://github.com/sonug178/dsa-series/tree/master/0349-intersection-of-two-arrays) |
+## Sorting
+|  |
+| ------- |
+| [0349-intersection-of-two-arrays](https://github.com/sonug178/dsa-series/tree/master/0349-intersection-of-two-arrays) |
 <!---LeetCode Topics End-->
