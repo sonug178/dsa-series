@@ -10,11 +10,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/sonug178/dsa-series/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0283-move-zeroes](https://github.com/sonug178/dsa-series/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/sonug178/dsa-series/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/sonug178/dsa-series/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/sonug178/dsa-series/tree/master/0001-two-sum) |
 | [0349-intersection-of-two-arrays](https://github.com/sonug178/dsa-series/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/sonug178/dsa-series/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Math
 |  |
 | ------- |
@@ -25,12 +27,15 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/sonug178/dsa-series/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0283-move-zeroes](https://github.com/sonug178/dsa-series/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/sonug178/dsa-series/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/sonug178/dsa-series/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Binary Search
 |  |
 | ------- |
 | [0349-intersection-of-two-arrays](https://github.com/sonug178/dsa-series/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/sonug178/dsa-series/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Sorting
 |  |
 | ------- |
 | [0349-intersection-of-two-arrays](https://github.com/sonug178/dsa-series/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/sonug178/dsa-series/tree/master/0350-intersection-of-two-arrays-ii) |
 <!---LeetCode Topics End-->
