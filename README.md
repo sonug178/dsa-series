@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/sonug178/dsa-series/tree/master/0007-reverse-integer) |
+| [0069-sqrtx](https://github.com/sonug178/dsa-series/tree/master/0069-sqrtx) |
 | [0268-missing-number](https://github.com/sonug178/dsa-series/tree/master/0268-missing-number) |
 ## Two Pointers
 |  |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/sonug178/dsa-series/tree/master/0069-sqrtx) |
 | [0268-missing-number](https://github.com/sonug178/dsa-series/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/sonug178/dsa-series/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/sonug178/dsa-series/tree/master/0350-intersection-of-two-arrays-ii) |
