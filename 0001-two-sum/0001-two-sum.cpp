@@ -11,6 +11,6 @@ vector<int> twoSum(vector<int>& nums, int target){
         }
         mpp[num] = i;
     }
-    return {-1,-1};     
+    return {-1};     
 }
 };
