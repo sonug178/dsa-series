@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/sonug178/dsa-series/tree/master/0069-sqrtx) |
 | [0268-missing-number](https://github.com/sonug178/dsa-series/tree/master/0268-missing-number) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/sonug178/dsa-series/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2413-smallest-even-multiple](https://github.com/sonug178/dsa-series/tree/master/2413-smallest-even-multiple) |
 ## Two Pointers
 |  |
 | ------- |
@@ -114,4 +115,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/sonug178/dsa-series/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2413-smallest-even-multiple](https://github.com/sonug178/dsa-series/tree/master/2413-smallest-even-multiple) |
 <!---LeetCode Topics End-->
