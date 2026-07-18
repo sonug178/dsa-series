@@ -1,17 +1,13 @@
 class Solution {
 public:
-    int gcd(int a ,int b){
-    int gcd_ = INT_MIN;
-    int m = max(a,b);
-    for(int i = 1;i<m+1;i++){
-        if(a%i == 0 && b%i ==0){
-            gcd_ = max(gcd_,i);
-        }
-
-    }
-    return gcd_;  
+   int gcd_euclidean(int a,int b){
+   if(b%a == 0) return a;
+   int c;
+   c = b%a;
+   b = a;
+   a = c;
+   return gcd_euclidean(a,b);
 }
-
 int findGCD(vector<int>&nums){
     int maxi = INT_MIN;
     int mini = INT_MAX;
@@ -21,7 +17,7 @@ int findGCD(vector<int>&nums){
         mini = min(mini,nums[i]);
     }
 
-    int gcd_d = gcd(maxi,mini);
+    int gcd_d = gcd_euclidean(mini,maxi);
     return gcd_d;
 
 }
