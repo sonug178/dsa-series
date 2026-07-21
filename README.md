@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/sonug178/dsa-series/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/sonug178/dsa-series/tree/master/0031-next-permutation) |
 | [0035-search-insert-position](https://github.com/sonug178/dsa-series/tree/master/0035-search-insert-position) |
+| [0048-rotate-image](https://github.com/sonug178/dsa-series/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/sonug178/dsa-series/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/sonug178/dsa-series/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/sonug178/dsa-series/tree/master/0073-set-matrix-zeroes) |
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/sonug178/dsa-series/tree/master/0007-reverse-integer) |
+| [0048-rotate-image](https://github.com/sonug178/dsa-series/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/sonug178/dsa-series/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/sonug178/dsa-series/tree/master/0069-sqrtx) |
 | [0268-missing-number](https://github.com/sonug178/dsa-series/tree/master/0268-missing-number) |
@@ -118,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/sonug178/dsa-series/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/sonug178/dsa-series/tree/master/0073-set-matrix-zeroes) |
 ## Number Theory
 |  |
