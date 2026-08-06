@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/sonug178/dsa-series/tree/master/0152-maximum-product-subarray) |
 | [0169-majority-element](https://github.com/sonug178/dsa-series/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/sonug178/dsa-series/tree/master/0217-contains-duplicate) |
+| [0229-majority-element-ii](https://github.com/sonug178/dsa-series/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/sonug178/dsa-series/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/sonug178/dsa-series/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/sonug178/dsa-series/tree/master/0349-intersection-of-two-arrays) |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/sonug178/dsa-series/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/sonug178/dsa-series/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/sonug178/dsa-series/tree/master/0217-contains-duplicate) |
+| [0229-majority-element-ii](https://github.com/sonug178/dsa-series/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/sonug178/dsa-series/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/sonug178/dsa-series/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/sonug178/dsa-series/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -80,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/sonug178/dsa-series/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/sonug178/dsa-series/tree/master/0217-contains-duplicate) |
+| [0229-majority-element-ii](https://github.com/sonug178/dsa-series/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/sonug178/dsa-series/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/sonug178/dsa-series/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/sonug178/dsa-series/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -98,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/sonug178/dsa-series/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/sonug178/dsa-series/tree/master/0229-majority-element-ii) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -139,4 +143,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2481-minimum-cuts-to-divide-a-circle](https://github.com/sonug178/dsa-series/tree/master/2481-minimum-cuts-to-divide-a-circle) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0229-majority-element-ii](https://github.com/sonug178/dsa-series/tree/master/0229-majority-element-ii) |
 <!---LeetCode Topics End-->
