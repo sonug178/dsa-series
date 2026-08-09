@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/sonug178/dsa-series/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/sonug178/dsa-series/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/sonug178/dsa-series/tree/master/0069-sqrtx) |
+| [0231-power-of-two](https://github.com/sonug178/dsa-series/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/sonug178/dsa-series/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/sonug178/dsa-series/tree/master/0326-power-of-three) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/sonug178/dsa-series/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/sonug178/dsa-series/tree/master/0136-single-number) |
+| [0231-power-of-two](https://github.com/sonug178/dsa-series/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/sonug178/dsa-series/tree/master/0268-missing-number) |
 ## Divide and Conquer
 |  |
@@ -151,5 +153,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/sonug178/dsa-series/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/sonug178/dsa-series/tree/master/0326-power-of-three) |
 <!---LeetCode Topics End-->
