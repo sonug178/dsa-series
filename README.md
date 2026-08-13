@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/sonug178/dsa-series/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/sonug178/dsa-series/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0485-max-consecutive-ones](https://github.com/sonug178/dsa-series/tree/master/0485-max-consecutive-ones) |
+| [0575-distribute-candies](https://github.com/sonug178/dsa-series/tree/master/0575-distribute-candies) |
 | [0922-sort-array-by-parity-ii](https://github.com/sonug178/dsa-series/tree/master/0922-sort-array-by-parity-ii) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/sonug178/dsa-series/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/sonug178/dsa-series/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/sonug178/dsa-series/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/sonug178/dsa-series/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/sonug178/dsa-series/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0575-distribute-candies](https://github.com/sonug178/dsa-series/tree/master/0575-distribute-candies) |
 ## Math
 |  |
 | ------- |
