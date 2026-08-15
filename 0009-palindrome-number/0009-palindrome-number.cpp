@@ -1,7 +1,7 @@
 class Solution {
 public:
     bool isPalindrome(int x){
-        if(x<0) return false;
+      if(x<0) return false;
         string n = to_string(x);
         int m = n.length();
         int j = m-1;
@@ -14,6 +14,5 @@ public:
             else return false;
         }
         return true;
-        
     }
 };
