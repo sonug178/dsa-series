@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/sonug178/dsa-series/tree/master/0054-spiral-matrix) |
 | [0066-plus-one](https://github.com/sonug178/dsa-series/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/sonug178/dsa-series/tree/master/0073-set-matrix-zeroes) |
+| [0078-subsets](https://github.com/sonug178/dsa-series/tree/master/0078-subsets) |
 | [0118-pascals-triangle](https://github.com/sonug178/dsa-series/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/sonug178/dsa-series/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sonug178/dsa-series/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -115,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/sonug178/dsa-series/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/sonug178/dsa-series/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/sonug178/dsa-series/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/sonug178/dsa-series/tree/master/0268-missing-number) |
@@ -183,4 +185,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/sonug178/dsa-series/tree/master/0011-container-with-most-water) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/sonug178/dsa-series/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
