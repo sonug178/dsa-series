@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0414-third-maximum-number](https://github.com/sonug178/dsa-series/tree/master/0414-third-maximum-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/sonug178/dsa-series/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/sonug178/dsa-series/tree/master/0485-max-consecutive-ones) |
+| [0566-reshape-the-matrix](https://github.com/sonug178/dsa-series/tree/master/0566-reshape-the-matrix) |
 | [0575-distribute-candies](https://github.com/sonug178/dsa-series/tree/master/0575-distribute-candies) |
 | [0922-sort-array-by-parity-ii](https://github.com/sonug178/dsa-series/tree/master/0922-sort-array-by-parity-ii) |
 | [1929-concatenation-of-array](https://github.com/sonug178/dsa-series/tree/master/1929-concatenation-of-array) |
@@ -142,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/sonug178/dsa-series/tree/master/0054-spiral-matrix) |
+| [0566-reshape-the-matrix](https://github.com/sonug178/dsa-series/tree/master/0566-reshape-the-matrix) |
 | [1929-concatenation-of-array](https://github.com/sonug178/dsa-series/tree/master/1929-concatenation-of-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/sonug178/dsa-series/tree/master/2149-rearrange-array-elements-by-sign) |
 ## String
@@ -163,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/sonug178/dsa-series/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/sonug178/dsa-series/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/sonug178/dsa-series/tree/master/0073-set-matrix-zeroes) |
+| [0566-reshape-the-matrix](https://github.com/sonug178/dsa-series/tree/master/0566-reshape-the-matrix) |
 ## Number Theory
 |  |
 | ------- |
